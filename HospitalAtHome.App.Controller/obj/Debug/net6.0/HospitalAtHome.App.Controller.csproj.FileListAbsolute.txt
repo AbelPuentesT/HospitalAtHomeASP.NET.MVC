@@ -1,0 +1,12 @@
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\bin\Debug\net6.0\HospitalAtHome.App.Controller.deps.json
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\bin\Debug\net6.0\HospitalAtHome.App.Controller.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\bin\Debug\net6.0\HospitalAtHome.App.Controller.pdb
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.csproj.AssemblyReference.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.AssemblyInfoInputs.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.AssemblyInfo.cs
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.csproj.CoreCompileInputs.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\refint\HospitalAtHome.App.Controller.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\HospitalAtHome.App.Controller.pdb
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Controller\obj\Debug\net6.0\ref\HospitalAtHome.App.Controller.dll
