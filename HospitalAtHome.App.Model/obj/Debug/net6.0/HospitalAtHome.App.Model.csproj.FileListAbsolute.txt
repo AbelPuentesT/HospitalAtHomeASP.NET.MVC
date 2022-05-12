@@ -1,0 +1,17 @@
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\bin\Debug\net6.0\HospitalAtHome.App.Model.deps.json
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\bin\Debug\net6.0\HospitalAtHome.App.Model.runtimeconfig.json
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\bin\Debug\net6.0\HospitalAtHome.App.Model.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\bin\Debug\net6.0\HospitalAtHome.App.Model.pdb
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\bin\Debug\net6.0\HospitalAtHome.App.Controller.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\bin\Debug\net6.0\HospitalAtHome.App.Controller.pdb
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.csproj.AssemblyReference.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.AssemblyInfoInputs.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.AssemblyInfo.cs
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.csproj.CoreCompileInputs.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.csproj.CopyComplete
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\refint\HospitalAtHome.App.Model.dll
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.pdb
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\HospitalAtHome.App.Model.genruntimeconfig.cache
+D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.Model\obj\Debug\net6.0\ref\HospitalAtHome.App.Model.dll

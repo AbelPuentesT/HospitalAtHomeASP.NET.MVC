@@ -4,14 +4,14 @@
     "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj": {}
   },
   "projects": {
-    "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj": {
+    "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Controller\\HospitalAtHome.App.Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj",
-        "projectName": "HospitalAtHome.App.Model",
-        "projectPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj",
+        "projectUniqueName": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Controller\\HospitalAtHome.App.Controller.csproj",
+        "projectName": "HospitalAtHome.App.Controller",
+        "projectPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Controller\\HospitalAtHome.App.Controller.csproj",
         "packagesPath": "C:\\Users\\Sofi\\.nuget\\packages\\",
-        "outputPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\obj\\",
+        "outputPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Controller\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sofi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,86 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj",
+        "projectName": "HospitalAtHome.App.Model",
+        "projectPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\HospitalAtHome.App.Model.csproj",
+        "packagesPath": "C:\\Users\\Sofi\\.nuget\\packages\\",
+        "outputPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sofi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Controller\\HospitalAtHome.App.Controller.csproj": {
+                "projectPath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Controller\\HospitalAtHome.App.Controller.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
