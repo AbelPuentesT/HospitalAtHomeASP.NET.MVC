@@ -4,6 +4,7 @@ using HospitalAtHome.App.Model.AppData;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HospitalAtHome.App.Model.Migrations
 {
     [DbContext(typeof(myAppContext))]
-    partial class myAppContextModelSnapshot : ModelSnapshot
+    [Migration("20220512031347_secondMigration")]
+    partial class secondMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -135,8 +137,8 @@ namespace HospitalAtHome.App.Model.Migrations
                 {
                     b.HasBaseType("HospitalAtHome.App.Controller.Person");
 
-                    b.Property<int?>("Code")
-                        .HasColumnType("int");
+                    b.Property<string>("Code")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Registration")
                         .HasColumnType("nvarchar(max)");
