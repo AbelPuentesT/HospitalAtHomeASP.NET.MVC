@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HospitalAtHome.App.Model.AppData
 {
-    public class AppContext: DbContext
+    public class myAppContext: DbContext
     {
         public DbSet<DesignatedFamilyMember>? DesignatedFamilyMembers { get; set; }
         public DbSet<Medical>? Medicals { get; set; }

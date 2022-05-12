@@ -14,4 +14,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalAtHome.App.Controller\HospitalAtHome.App.Controller.csproj" />
+    <ProjectReference Include="..\HospitalAtHome.App.Model\HospitalAtHome.App.Model.csproj" />
+  </ItemGroup>
+
 </Project>
