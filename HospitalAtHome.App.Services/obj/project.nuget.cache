@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYiRrUrRcnqgIM1MiPORa8/nUjFv9iu6iq7Xop7J0+MimdU2VC3FpLkdwnWRvsbTH4o3jbIV+Lx4n3gz/o6Veg==",
+  "success": true,
+  "projectFilePath": "D:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.Services\\HospitalAtHome.App.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sofi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sofi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sofi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sofi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sofi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sofi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
