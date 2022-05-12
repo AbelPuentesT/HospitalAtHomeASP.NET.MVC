@@ -6,14 +6,14 @@ namespace HospitalAtHome.App.Model.AppData
 {
     public class myAppContext: DbContext
     {
-        public DbSet<DesignatedFamilyMember>? DesignatedFamilyMembers { get; set; }
-        public DbSet<Medical>? Medicals { get; set; }
-        public DbSet<MedicalRecord>? MedicalRecords { get; set; }
-        public DbSet<Nurse>? Nurses { get; set; }
-        public DbSet<Patient>? Patients { get; set; }
-        public DbSet<Person>? Persons { get; set; }
-        public DbSet<Suggestion>? Suggestions { get; set; }
-        public DbSet<VitalSign>? VitalSigns { get; set; }
+        public DbSet<DesignatedFamilyMember> DesignatedFamilyMembers { get; set; }
+        public DbSet<Medical> Medicals { get; set; }
+        public DbSet<MedicalRecord> MedicalRecords { get; set; }
+        public DbSet<Nurse> Nurses { get; set; }
+        public DbSet<Patient> Patients { get; set; }
+        public DbSet<Person> Persons { get; set; }
+        public DbSet<Suggestion> Suggestions { get; set; }
+        public DbSet<VitalSign> VitalSigns { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder opciones)
         {
             if (!opciones.IsConfigured)

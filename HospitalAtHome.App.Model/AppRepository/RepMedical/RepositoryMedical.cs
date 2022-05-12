@@ -11,10 +11,10 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
     {
         private readonly myAppContext? context;
 
-        public RepositoryMedical(myAppContext context)
+        /* public RepositoryMedical(myAppContext context)
         {
             this.context = context;
-        }
+        } */
 
         public Medical addMedical(Medical medical)
         {
