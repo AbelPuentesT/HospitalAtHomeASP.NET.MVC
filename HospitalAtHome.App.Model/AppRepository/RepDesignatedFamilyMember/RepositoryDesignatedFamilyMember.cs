@@ -9,12 +9,12 @@ namespace HospitalAtHome.App.Model.AppRepository.RepDesignatedFamilyMember
 {
     public class RepositoryDesignatedFamilyMember : IRepositoryDesignatedFamilyMember
     {
-        myAppContext context;
+        myAppContext? context;
         public DesignatedFamilyMember addDesignatedFamilyMember(DesignatedFamilyMember dfm)
         {
             var newDfm= context.Add(dfm).Entity;
             context.SaveChanges();
-            return newDfm;
+            return  newDfm;
         }
 
         public DesignatedFamilyMember editDesignatedFamilyMember(DesignatedFamilyMember dfm)

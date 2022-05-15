@@ -46,14 +46,12 @@ namespace HospitalAtHome.App.Model.AppRepository.RepNurse
 
         public IEnumerable<Nurse> getAllNurse()
         {
-            context.SaveChanges();
             return context.Nurses;
         }
 
         public Nurse getNurse(int code)
         {
             var FindNurse = context.Nurses.FirstOrDefault(n => n.Code == code);
-            context.SaveChanges();
             return FindNurse;
         }
     }
