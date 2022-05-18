@@ -11,16 +11,26 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
     {
         private readonly myAppContext? context;
 
-        /* public RepositoryMedical(myAppContext context)
+        public RepositoryMedical(myAppContext context)
         {
             this.context = context;
-        } */
+        }
 
         public Medical addMedical(Medical medical)
         {
             Medical newMedical = context.Add(medical).Entity;
             context.SaveChanges();
             return newMedical;
+        }
+
+        public Person Create(Person person)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Person Delete(int id)
+        {
+            throw new NotImplementedException();
         }
 
         public Medical editMedical(Medical medical)
@@ -38,10 +48,19 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
                 return FindMedical;
         }
 
+        public IEnumerable<Person> GetAll()
+        {
+            return context.Medicals;
+        }
+
         public IEnumerable<Medical> getAllMedical()
         {
-            context.SaveChanges();
             return context.Medicals;
+        }
+
+        public Person GetById(int id)
+        {
+            throw new NotImplementedException();
         }
 
         public Medical getMedical(int code)
@@ -61,6 +80,11 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
                 context.Medicals.Remove (FindMedical);
                 context.SaveChanges();
             }
+        }
+
+        public Person Update(Person person)
+        {
+            throw new NotImplementedException();
         }
     }
 }

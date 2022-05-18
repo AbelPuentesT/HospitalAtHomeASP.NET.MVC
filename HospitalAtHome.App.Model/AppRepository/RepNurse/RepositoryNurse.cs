@@ -10,6 +10,10 @@ namespace HospitalAtHome.App.Model.AppRepository.RepNurse
     public class RepositoryNurse : IRepositoryNurse
     {
         private readonly myAppContext? context;
+        public RepositoryNurse(myAppContext context)
+        {
+            this.context = context;
+        }
 
         public Nurse addNurse(Nurse nurse)
         {
