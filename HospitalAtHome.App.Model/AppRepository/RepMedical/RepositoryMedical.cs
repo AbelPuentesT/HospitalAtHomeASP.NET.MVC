@@ -15,22 +15,11 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
         {
             this.context = context;
         }
-
         public Medical addMedical(Medical medical)
         {
             Medical newMedical = context.Add(medical).Entity;
             context.SaveChanges();
             return newMedical;
-        }
-
-        public Person Create(Person person)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Person Delete(int id)
-        {
-            throw new NotImplementedException();
         }
 
         public Medical editMedical(Medical medical)
@@ -48,29 +37,16 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
                 return FindMedical;
         }
 
-        public IEnumerable<Person> GetAll()
-        {
-            return context.Medicals;
-        }
-
         public IEnumerable<Medical> getAllMedical()
         {
             return context.Medicals;
         }
-
-        public Person GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
         public Medical getMedical(int code)
         {
             Medical FindMedical =
                 context.Medicals.FirstOrDefault(m => m.Code == code);
-            context.SaveChanges();
             return FindMedical;
         }
-
         public void removeMedical(int code)
         {
             Medical FindMedical =
@@ -82,9 +58,5 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
             }
         }
 
-        public Person Update(Person person)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

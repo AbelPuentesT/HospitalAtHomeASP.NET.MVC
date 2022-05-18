@@ -46,7 +46,6 @@ namespace HospitalAtHome.App.Model.AppRepository.RepPatient
 
         public IEnumerable<Patient> GetAllPatient()
         {
-            context.SaveChanges();
             return context.Patients;
         }
 
@@ -54,7 +53,6 @@ namespace HospitalAtHome.App.Model.AppRepository.RepPatient
         {
             var findPatient =
                 context.Patients.FirstOrDefault(p => p.Code == code);
-            context.SaveChanges();
             return findPatient;
         }
 

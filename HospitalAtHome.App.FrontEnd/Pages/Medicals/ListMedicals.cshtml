@@ -1,0 +1,37 @@
+﻿@page
+@model HospitalAtHome.App.FrontEnd.Pages.ListMedicalsModel
+@{
+}
+<h1>Manage Doctors</h1>
+<p>On this page you can manage the doctors</p>
+<div>
+<a class="btn btn-primary table-btn" asp-page="./CreateMedical">Add a Medical</a>>
+</div>
+<table class="table table-striped table-dark">
+    <thead >
+        <tr>
+            <th scope="col">Code</th>
+            <th scope="col">Name</th>
+            <th scope="col">LastName</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Specialty</th>
+            <th scope="col">Registration</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var medical in Model.medicals)
+        {
+            <tr>
+                <td>@medical.Code</td>
+                <td>@medical.Name</td>
+                <td>@medical.LastName</td>
+                <td>@medical.PhoneNumber</td>
+                <td>@medical.Gender</td>
+                <td>@medical.Specialty</td>
+                <td>@medical.Registration</td>
+            </tr>
+        }
+    </tbody>
+
+</table>

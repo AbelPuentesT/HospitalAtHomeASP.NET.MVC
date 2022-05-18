@@ -36,14 +36,12 @@ namespace HospitalAtHome.App.Model.AppRepository.RepDesignatedFamilyMember
 
         public IEnumerable<DesignatedFamilyMember> getAllDesignatedFamilyMember()
         {
-            context.SaveChanges();
             return context.DesignatedFamilyMembers;
         }
 
         public DesignatedFamilyMember getDesignatedFamilyMember(int code)
         {
             var findDfm= context.DesignatedFamilyMembers.FirstOrDefault(dfm => dfm.Code == code);
-            context.SaveChanges();
             return findDfm;
         }
 

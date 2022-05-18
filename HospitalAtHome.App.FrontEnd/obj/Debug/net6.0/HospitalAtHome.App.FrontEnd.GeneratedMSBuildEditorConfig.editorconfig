@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HospitalAtHome.App.FrontEnd
+build_property.RootNamespace = HospitalAtHome.App.FrontEnd
+build_property.ProjectDir = d:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.FrontEnd\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.FrontEnd
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/AddMedical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcQWRkTWVkaWNhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/DetailMedical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcRGV0YWlsTWVkaWNhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/EditMedicals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcRWRpdE1lZGljYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/ListMedicals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcTGlzdE1lZGljYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/RemoveMedical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcUmVtb3ZlTWVkaWNhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d33nn91m11
