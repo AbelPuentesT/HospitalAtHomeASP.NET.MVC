@@ -9,8 +9,8 @@ namespace HospitalAtHome.App.Model.AppRepository.RepDesignatedFamilyMember
 {
     public class RepositoryDesignatedFamilyMember : IRepositoryDesignatedFamilyMember
     {
-        private readonly myAppContext? context;
-        public RepositoryDesignatedFamilyMember (myAppContext? context)
+        private readonly myAppContext context;
+        public RepositoryDesignatedFamilyMember (myAppContext context)
         {
             this.context = context;
         }

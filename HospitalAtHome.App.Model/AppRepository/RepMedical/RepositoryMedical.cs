@@ -9,7 +9,7 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
 {
     public class RepositoryMedical : IRepositoryMedical
     {
-        private readonly myAppContext? context;
+        private readonly myAppContext context;
 
         public RepositoryMedical(myAppContext context)
         {
