@@ -1,0 +1,38 @@
+﻿@page
+@model HospitalAtHome.App.FrontEnd.Pages.ListDFMModel
+@{
+}
+<h1>Manage Family Patient</h1>
+<p>On this page you can manage the family Patient</p>
+<div>
+<a class="btn btn-primary table-btn" asp-page="./CreateMedical">Add a family Patient</a>>
+</div>
+<table class="table table-striped table-dark">
+    <thead >
+        <tr>
+            <th scope="col">Code</th>
+            <th scope="col">Name</th>
+            <th scope="col">LastName</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Relationship</th>
+            <th scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var FamilyMember in Model.designatedFamilyMembers)
+        {
+            <tr>
+                <td>@FamilyMember.Code</td>
+                <td>@FamilyMember.Name</td>
+                <td>@FamilyMember.LastName</td>
+                <td>@FamilyMember.PhoneNumber</td>
+                <td>@FamilyMember.Gender</td>
+                <td>@FamilyMember.Relationship</td>
+                <td>@FamilyMember.Email</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

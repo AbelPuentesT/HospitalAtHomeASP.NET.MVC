@@ -16298,8 +16298,23 @@
   "RootNamespace": "HospitalAtHome.App.FrontEnd",
   "Documents": [
     {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Nurses\\RemoveNurses.cshtml",
+      "TargetPath": "Pages\\Nurses\\RemoveNurses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\DFM\\ListDFM.cshtml",
+      "TargetPath": "Pages\\DFM\\ListDFM.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Medicals\\EditMedicals.cshtml",
       "TargetPath": "Pages\\Medicals\\EditMedicals.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Patients\\EditPatients.cshtml",
+      "TargetPath": "Pages\\Patients\\EditPatients.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16310,6 +16325,11 @@
     {
       "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Nurses\\ListNurses.cshtml",
+      "TargetPath": "Pages\\Nurses\\ListNurses.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,6 +16348,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\DFM\\RemoveDFM.cshtml",
+      "TargetPath": "Pages\\DFM\\RemoveDFM.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Patients\\ListPatients.cshtml",
+      "TargetPath": "Pages\\Patients\\ListPatients.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Medicals\\DetailMedical.cshtml",
       "TargetPath": "Pages\\Medicals\\DetailMedical.cshtml",
       "FileKind": "mvc"
@@ -16338,8 +16368,53 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Patients\\RemovePatients.cshtml",
+      "TargetPath": "Pages\\Patients\\RemovePatients.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Nurses\\AddNurses.cshtml",
+      "TargetPath": "Pages\\Nurses\\AddNurses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\DFM\\AddDFM.cshtml",
+      "TargetPath": "Pages\\DFM\\AddDFM.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\DFM\\DetailDFM.cshtml",
+      "TargetPath": "Pages\\DFM\\DetailDFM.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\DFM\\EditDFM.cshtml",
+      "TargetPath": "Pages\\DFM\\EditDFM.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Patients\\DetailPatient.cshtml",
+      "TargetPath": "Pages\\Patients\\DetailPatient.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Patients\\AddPatients.cshtml",
+      "TargetPath": "Pages\\Patients\\AddPatients.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Nurses\\DetailNurses.cshtml",
+      "TargetPath": "Pages\\Nurses\\DetailNurses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CursoCsharp\\06ASP.Net\\03.ASP.Net_TIC02\\HospitalAtHome.App\\HospitalAtHome.App.FrontEnd\\Pages\\Nurses\\EditNurses.cshtml",
+      "TargetPath": "Pages\\Nurses\\EditNurses.cshtml",
       "FileKind": "mvc"
     },
     {

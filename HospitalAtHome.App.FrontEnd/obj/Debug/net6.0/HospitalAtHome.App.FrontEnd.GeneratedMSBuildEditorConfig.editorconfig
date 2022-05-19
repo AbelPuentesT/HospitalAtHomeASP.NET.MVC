@@ -8,57 +8,117 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HospitalAtHome.App.FrontEnd
 build_property.RootNamespace = HospitalAtHome.App.FrontEnd
-build_property.ProjectDir = d:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.FrontEnd\
+build_property.ProjectDir = D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.FrontEnd\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.FrontEnd
+build_property.MSBuildProjectDirectory = D:\CursoCsharp\06ASP.Net\03.ASP.Net_TIC02\HospitalAtHome.App\HospitalAtHome.App.FrontEnd
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Error.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/DFM/AddDFM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREZNXEFkZERGTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/DFM/DetailDFM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREZNXERldGFpbERGTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/DFM/EditDFM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREZNXEVkaXRERk0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/DFM/ListDFM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREZNXExpc3RERk0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/DFM/RemoveDFM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREZNXFJlbW92ZURGTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Index.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/AddMedical.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/AddMedical.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcQWRkTWVkaWNhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/DetailMedical.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/DetailMedical.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcRGV0YWlsTWVkaWNhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/EditMedicals.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/EditMedicals.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcRWRpdE1lZGljYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/ListMedicals.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/ListMedicals.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcTGlzdE1lZGljYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/RemoveMedical.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Medicals/RemoveMedical.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbHNcUmVtb3ZlTWVkaWNhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Privacy.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Nurses/AddNurses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVyc2VzXEFkZE51cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Nurses/DetailNurses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVyc2VzXERldGFpbE51cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Nurses/EditNurses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVyc2VzXEVkaXROdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Nurses/ListNurses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVyc2VzXExpc3ROdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Nurses/RemoveNurses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVyc2VzXFJlbW92ZU51cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Patients/AddPatients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcQWRkUGF0aWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Patients/DetailPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcRGV0YWlsUGF0aWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Patients/EditPatients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcRWRpdFBhdGllbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Patients/ListPatients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcTGlzdFBhdGllbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Patients/RemovePatients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcUmVtb3ZlUGF0aWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/_ViewImports.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/_ViewStart.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Shared/_Layout.cshtml]
+[D:/CursoCsharp/06ASP.Net/03.ASP.Net_TIC02/HospitalAtHome.App/HospitalAtHome.App.FrontEnd/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d33nn91m11
