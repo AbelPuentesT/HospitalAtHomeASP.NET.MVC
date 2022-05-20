@@ -2,3 +2,21 @@
 @model HospitalAtHome.App.FrontEnd.Pages.RemoveMedicalModel
 @{
 }
+<h1>Warning</h1>
+<p>Are you sure you want to delete the record?</p>
+<ul>
+    <li>Code: @Model.medical.Code</li>
+    <li>Name: @Model.medical.Name</li>
+    <li>Last Name: @Model.medical.LastName</li>
+    <li>Phone: @Model.medical.PhoneNumber</li>
+    <li>Registration: @Model.medical.Registration</li>
+    <li>Speciality: @Model.medical.Specialty</li>
+    <li>Gender: @Model.medical.Gender</li>
+</ul>
+<form method="post" class="mt-3">
+    <input hidden asp-for="medical.Id" />
+    <div>
+        <button type="submit" class="btn btn-primary">Accept</button>
+        <a class="btn btn-primary table-btn" asp-page="./ListMedicals">Cancel</a>
+    </div>
+</form>

@@ -7,7 +7,7 @@
 <div>
 <a class="btn btn-primary table-btn" asp-page="./AddMedical">Add Doctor</a>
 </div>
-<table class="table table-striped table-dark">
+<table class="table table-striped">
     <thead >
         <tr>
             <th scope="col">Code</th>
@@ -23,15 +23,16 @@
         @foreach (var medical in Model.medicals)
         {
             <tr>
-                <td>@medical.Code</td>
-                <td>@medical.Name</td>
-                <td>@medical.LastName</td>
-                <td>@medical.PhoneNumber</td>
-                <td>@medical.Gender</td>
-                <td>@medical.Specialty</td>
-                <td>@medical.Registration</td>
+                <td class="table-primary">@medical.Code</td>
+                <td class="table-secondary">@medical.Name</td>
+                <td class="table-success">@medical.LastName</td>
+                <td class="table-danger">@medical.PhoneNumber</td>
+                <td class="table-warning">@medical.Gender</td>
+                <td class="table-info">@medical.Specialty</td>
+                <td class="table-light">@medical.Registration</td>
                 <td><a class="btn btn-primary table-btn" asp-page="./DetailMedical" asp-route-code="@medical.Code">Detail Doctor</a>
                 <a class="btn btn-primary table-btn" asp-page="./EditMedicals" asp-reute-code="@medical.Code" >Edit Doctor</a>
+                <a class="btn btn-primary table-btn" asp-page="./RemoveMedical" asp-route-code="@medical.Code">Delete Doctor</a>
                 </td>
             </tr>
         }
