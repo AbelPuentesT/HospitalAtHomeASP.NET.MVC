@@ -1,4 +1,43 @@
 ﻿@page
 @model HospitalAtHome.App.FrontEnd.Pages.EditMedicalsModel
+@using HospitalAtHome.App.Controller
 @{
 }
+<h1>Update Doctor</h1>
+<form method="post" class="mt-3">
+    <input hidden asp-for="medical.Id" />
+    <div class="form-group row">
+        <label asp-for="medical.Code" class="col-sm-2">Code</label>
+        <input asp-for="medical.Code" class="form-control" />
+    </div>
+    <div class="form-group row">
+        <label asp-for="medical.Name" class="col-sm-2">Name</label>
+        <input asp-for="medical.Name" class="form-control" />
+    </div>
+    <div class="form-group row">
+        <label asp-for="medical.LastName" class="col-sm-2">Last Name</label>
+        <input asp-for="medical.LastName" class="form-control" />
+    </div>
+    <div class="form-group row">
+        <label asp-for="medical.PhoneNumber" class="col-sm-2">PhoneNumber</label>
+        <input asp-for="medical.PhoneNumber" class="form-control" />
+    </div>
+    <div class="form-group row">
+        <label asp-for="medical.Gender" class="col-sm-2">Update Gender</label>
+        <div class="col-sm-10">
+            <select asp-for="medical.Gender" asp-items="Html.GetEnumSelectList<Gender>()"></select>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="medical.Specialty" class="col-sm-2">Specialty</label>
+        <input asp-for="medical.Specialty" class="form-control" />
+    </div>
+    <div class="form-group row">
+        <label asp-for="medical.Registration" class="col-sm-2">Registration</label>
+        <input asp-for="medical.Registration" class="form-control" />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a class="btn btn-primary table-btn" asp-page="./ListMedicals">Cancel</a>
+    </div>
+</form>

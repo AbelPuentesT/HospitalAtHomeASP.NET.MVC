@@ -24,14 +24,16 @@ namespace HospitalAtHome.App.Model.AppRepository.RepMedical
 
         public Medical editMedical(Medical medical)
         {Medical FindMedical =
-                context.Medicals.FirstOrDefault(m => m.Code == medical.Code);
+                context.Medicals.FirstOrDefault(m => m.Id == medical.Id);
                 if (FindMedical != null)
                 {
+                    FindMedical.Code=medical.Code;
                     FindMedical.Name=medical.Name;
                     FindMedical.LastName=medical.LastName;
                     FindMedical.PhoneNumber=medical.PhoneNumber;
                     FindMedical.Registration=medical.Registration;
                     FindMedical.Specialty=medical.Specialty;
+                    //FindMedical.Gender= medical.Gender;
                 }
                 context.SaveChanges();
                 return FindMedical;

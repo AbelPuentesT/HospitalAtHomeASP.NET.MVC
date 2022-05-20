@@ -1,4 +1,43 @@
 ﻿@page
 @model HospitalAtHome.App.FrontEnd.Pages.AddMedicalModel
+@using HospitalAtHome.App.Controller
 @{
 }
+<h1>Add Doctor</h1>
+<form method="post" class="mt-3">
+    <input hidden asp-for="newMedical.Id" />
+    <div class="form-group row">
+        <label asp-for="newMedical.Code" class="col-sm-2">Code</label>
+        <input asp-for="newMedical.Code" class="form-control" value="" required />
+    </div>
+    <div class="form-group row">
+        <label asp-for="newMedical.Name" class="col-sm-2">Name</label>
+        <input asp-for="newMedical.Name" class="form-control" value="" required />
+    </div>
+    <div class="form-group row">
+        <label asp-for="newMedical.LastName" class="col-sm-2">Last Name</label>
+        <input asp-for="newMedical.LastName" class="form-control" value="" required />
+    </div>
+    <div class="form-group row">
+        <label asp-for="newMedical.PhoneNumber" class="col-sm-2">PhoneNumber</label>
+        <input asp-for="newMedical.PhoneNumber" class="form-control" value="" required />
+    </div>
+    <div class="form-group row">
+        <label asp-for="newMedical.Gender" class="col-sm-2">Update Gender</label>
+        <div class="col-sm-10">
+            <select asp-for="newMedical.Gender" asp-items="Html.GetEnumSelectList<Gender>()"required></select>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="newMedical.Specialty" class="col-sm-2">Specialty</label>
+        <input asp-for="newMedical.Specialty" class="form-control" value="" required />
+    </div>
+    <div class="form-group row">
+        <label asp-for="newMedical.Registration" class="col-sm-2">Registration</label>
+        <input asp-for="newMedical.Registration" class="form-control" value="" required />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a class="btn btn-primary table-btn" asp-page="./ListMedicals">Cancel</a>
+    </div>
+</form>

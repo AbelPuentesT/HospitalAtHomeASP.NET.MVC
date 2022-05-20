@@ -42,6 +42,7 @@ namespace HospitalAtHome.App.Model.AppRepository.RepDesignatedFamilyMember
         public DesignatedFamilyMember getDesignatedFamilyMember(int code)
         {
             var findDfm= context.DesignatedFamilyMembers.FirstOrDefault(dfm => dfm.Code == code);
+            
             return findDfm;
         }
 
